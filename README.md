@@ -6,7 +6,6 @@ Face Embedder is a powerful tool designed to generate high-quality face embeddin
 * Face Alignment: Aligns detected faces to improve the quality of embeddings.
 * Embedding Extraction: Generates robust face embeddings using pre-trained models like FaceNet, ArcFace, or similar.
 * Real-time Processing: Supports real-time face embedding extraction from video streams.
-* Easy Integration: Provides a simple API for integrating face embedding capabilities into your applications.
 
 # Installation
 To install the Face Embedder, clone the repository and install the required dependencies:
