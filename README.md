@@ -11,5 +11,7 @@ Face Embedder is a powerful tool designed to generate high-quality face embeddin
 To install the Face Embedder, clone the repository and install the required dependencies:
 
 git clone https://github.com/yourusername/face-embedder.git
+
 cd face-embedder
+
 pip install -r requirements.txt
